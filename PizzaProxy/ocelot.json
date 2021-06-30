@@ -6,7 +6,7 @@
         "DownstreamHostAndPorts": [
           {
             "Host": "localhost",
-            "Port": 8001
+            "Port": 80
           }
         ],
         "UpstreamPathTemplate": "/api/Pizza",
@@ -18,7 +18,7 @@
         "DownstreamHostAndPorts": [
           {
             "Host": "localhost",
-            "Port": 8002
+            "Port": 80
           }
         ],
         "UpstreamPathTemplate": "/api/Pizza",
